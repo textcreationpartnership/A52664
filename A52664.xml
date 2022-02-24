@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The nations address to the committee of grievances in Parliament for the taking off the corporation oath in behalf of all cities, towns-corporate, aldermen, bayliffs, burgesses, as also sheriffs, lord lieutenants, and deputy lieutenants of counties, ministers, and all others concerned for the repealing those acts, which impose the oath folowing.</title>
+            <author>England and Wales. Parliament. Committee of Grievances.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52664</idno>
+            <idno type="STC">Wing N235A</idno>
+            <idno type="STC">ESTC R636</idno>
+            <idno type="EEBO-CITATION">12264784</idno>
+            <idno type="OCLC">ocm 12264784</idno>
+            <idno type="VID">57978</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52664)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57978)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The nations address to the committee of grievances in Parliament for the taking off the corporation oath in behalf of all cities, towns-corporate, aldermen, bayliffs, burgesses, as also sheriffs, lord lieutenants, and deputy lieutenants of counties, ministers, and all others concerned for the repealing those acts, which impose the oath folowing.</title>
+                  <author>England and Wales. Parliament. Committee of Grievances.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Hayhurst,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Oaths --  Great Britain --  Early works to 1800.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:57978:1"/>
+            <head>THE NATIONS ADDRESS TO THE Committee of Grievances in Parliament, For the Taking Off the CORPORATION OATH, IN Behalf of all Cities, Towns-Corporate, Aldermen, Bayliffs, Burgeſſes; as alſo of Sheriffs, Lord Lieutenants, and Deputy Lieutenants of Counties, Miniſters, and all others concerned for the Repealing thoſe Acts, which impoſe the Oath following.</head>
+            <div type="oath">
+               <head>The OATH.</head>
+               <p>
+                  <hi>I A. B.</hi> do ſwear, That it is not Lawful, upon any pretence whatſoever, to take Arms a<g ref="char:EOLhyphen"/>gainſt the King. And that I do abhor that Traiterous poſition, of taking Arms by his Au<g ref="char:EOLhyphen"/>thority, againſt his Perſon, or againſt thoſe that are Commiſſionated by Him, in purſuance of ſuch Commiſſions. And that I will not, at any time endeavour any Alteration of Government, either in Church or State.</p>
+            </div>
+            <div type="address">
+               <p>IN this Oath, we have the <hi>Matter,</hi> and the <hi>Form</hi> of Words, that is the <hi>Subſtance,</hi> and <hi>Compoſure:</hi> And there are Three Parts of it. The firſt Part is not conſiſtent with <hi>Judgment:</hi> The Second with <hi>Truth:</hi> The Third with <hi>Righteouſneſs.</hi>
+               </p>
+               <p>I will take up the Laſt part Firſt. <hi>And I will not endeavour any Alteration of Government.</hi> There is no Government on Earth ſo perfect, that it has need of Laws, like the <hi>Medes</hi> and <hi>Perſians.</hi> Government may be conſidered in the <hi>Adminiſtrati<g ref="char:EOLhyphen"/>on,</hi> (according to Politicks) or the <hi>Conſtitution.</hi> The Word <hi>Govern<g ref="char:EOLhyphen"/>ment</hi> is ſet down here indefinitely, without Diſtinction. Alter<g ref="char:EOLhyphen"/>ation of Laws, and ſo <hi>Government</hi> in the <hi>Admineſtration,</hi> is as neceſſary many times upon emergent occaſions, to the <hi>Body Politick,</hi> as the freſh Air is to the <hi>Natural.</hi> This Oath was once brought in to the Parliament, to have been made com<g ref="char:EOLhyphen"/>mon. It were a thing not Righteous, a deſtructire thing, to have ſuch an Engagement laid on perſons in ſuch a capaci<g ref="char:EOLhyphen"/>ty: It were injurious, to have it laid on any Free-holders, or Free-Subjects, as we are. The Conſtitution of our Nation, as Parliamentary, is ſuch, that no <hi>Law</hi> can be <hi>Eſtabliſhed</hi> or <hi>Re<g ref="char:EOLhyphen"/>pealed,</hi> but it muſt paſs the Houſe of <hi>Commons;</hi> and ſo the whole <hi>Body</hi> concurr in their <hi>Repreſentatives</hi> to every Altera<g ref="char:EOLhyphen"/>tion <hi>of</hi> (or <hi>in</hi>) the <hi>Government</hi> which is made, if it be <hi>Le<g ref="char:EOLhyphen"/>gal:</hi> No Houſe of <hi>Commons,</hi> but is Choſen by the People. <hi>Every</hi> Engliſh-man <hi>is intended to be here preſent, either in Perſon, or by Procuration; and the Conſent of the Parliament is taken to be every Mans Conſent,</hi> ſays Sir <hi>Thomas Smith, De Rep. Angl. l.</hi> 2. <hi>c.</hi> 2. <q rend="margQuotes">Nay, while the King, <hi>Conſilio &amp; Conſenſu Baronum Leges olim impoſuit Univerſo Regno,</hi> by the Counſel and Aſſent of his Barons, did give Laws to his whole Realm, <hi>Conſentire in<g ref="char:EOLhyphen"/>ferior quiſque viſus eſt in perſona Domini ſui Capitalis pro ut hodie per Procuratores Comitatus,</hi> every Inferior ſeemed to con<g ref="char:EOLhyphen"/>ſent in the perſon of his Chief Lord; as now they do by their <hi>Burgeſſes,</hi> and <hi>Knights</hi> of the Shires, ſays Sir <hi>Henry Spelman.</hi>
+                  </q> This is ſo true, that in this ſenſe it is, that the Laws are ſaid to be <hi>Quas vulgus elegerit, Which the People ſhall chooſe.</hi> Now, then, if every Free Subject hath a Fundamental Liberty to Chooſe Knights, and Burgeſſes; and accordingly to inform them of their Grievances, and Petition them for Redreſs, and in them, as their Repreſentatives, do conſent to the Alterati<g ref="char:EOLhyphen"/>on of Government and Laws, (if there be any paſs) as profita<g ref="char:EOLhyphen"/>ble to the Nation: How can ſuch an Oath be impoſed on him, <hi>That he will not endeavour any Alteration,</hi> as this? Is not Chuſing Burgeſſes; informing them, Petitioning them, Acting and Legally Conſenting in them, to this end, <hi>An Endeavour;</hi> and that as much as can be in their Place and Calling? And no more than an Endeavour in their <hi>Place and Calling,</hi> was Sworn in the <hi>Covenant.</hi> It is true, that New <hi>Laws</hi> was made, and Old Repealed, without Alteration of the <hi>Conſtitution,</hi> but not without Alteration of <hi>Government,</hi> becauſe <hi>Government</hi> takes in both the <hi>Adminiſtration</hi> and <hi>Conſtitution.</hi> Let us ſup<g ref="char:EOLhyphen"/>poſe the word <hi>Government</hi> confin'd only the Conſtitution. This is the Conſtitution of the Government in the <hi>State,</hi> which is a <hi>Legal Monarchy;</hi> and this indeed we are ſo far bound from endeavouring to Alter, (now we are conſtituted a Common-wealth) that I think it not altera<g ref="char:EOLhyphen"/>ble by the King himſelf, and <hi>Parliament</hi> (though it might be ſo little a while ſince, when they were a <hi>Convention</hi>) becauſe the Supream Power, for the <hi>Adminiſtration,</hi> muſt be ſuppoſed, in all Communities, to be derived <hi>from,</hi> and held <hi>by</hi> the <hi>Conſtitution.</hi> But as for Government in the <hi>Church;</hi> We are to know, and to acknowledge the Conſtitution it ſelf hereof, is but a Law of the <hi>Adminiſtration,</hi> in Reference to the <hi>State.</hi> And conſe<g ref="char:EOLhyphen"/>quently, when all Laws for the Adminiſtration are liable to the Regulations of Parliaments; the great Queſtion will re<g ref="char:EOLhyphen"/>main, How theſe men, who are <hi>Presbyterian,</hi> or <hi>Independant,</hi> in their Judgment, and think Epiſcopacy againſt the Scripture, can be denyed the <hi>Endeavour</hi> only before mentioned (which conſiſts but in Chooſing <hi>Repreſentatives,</hi> and doing no more than the <hi>Conſtitution</hi> allows) in order to the Proſecution of what they think themſelves obliged to in Conſcience, both by <hi>Oath</hi> and the <hi>Word of God?</hi> Is not the Foundation Liberty of the whole People, and our ſelves with them, here in danger? Judg ye, that are Wiſe; and what an Anointed Plot <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> had here in the Nation, that an Allegiance in effect, ſhould be Sworn to the Biſhops, as well as to the King, by ſuch Im<g ref="char:EOLhyphen"/>poſitions?</p>
+               <p>For the <hi>Words</hi> then (or <hi>Form,</hi>) I wonder at this Rigor in the Compiler, that a man muſt Swear, <hi>Not to endeavour any Alte<g ref="char:EOLhyphen"/>ration.</hi> Had it not been enough to be Engaged, not to endea- any Alteration of the Subſtance of our Government, Epiſco<g ref="char:EOLhyphen"/>pacy in the Church, and Monarchy in the State; but it muſt be, <hi>Not Any Alteration?</hi> It were well, that we were ſo abſolute<g ref="char:EOLhyphen"/>ly perfect. And again, muſt we not at <hi>any time</hi> endeavour any Alteration? What if times ſhould turn, and we be in a Con<g ref="char:EOLhyphen"/>fuſion, as in <hi>Cromwell</hi>'s time, and immediately after? What if a<g ref="char:EOLhyphen"/>ny ſuch like chance, or changes come? Muſt theſe Men be bound up, that they cannot endeavour to render back this Government, that we have? No, not the <hi>King,</hi> and the <hi>Bi<g ref="char:EOLhyphen"/>ſhops,</hi> if the Iniquity of the Times ſhould put them out; for they have Sworn, they <hi>will not at any time endeavour any Alter<g ref="char:EOLhyphen"/>ation of Government, in Church or State.</hi> Sirs! The Matter of this <hi>Obligation,</hi> being againſt the Fundamental Freedom of the <hi>Subject</hi> and <hi>Parliament,</hi> and the Words you ſee, ſo enſnaring, and that againſt the Duty all owe to the publick good; I offer it to you to conſider, in the firſt place, whether this <hi>laſt Part</hi> be according to <hi>Righteouſneſs?</hi>
+               </p>
+               <p>For the <hi>Middle part</hi> of the Oath. Here is a Poſition of Ta<g ref="char:EOLunhyphen"/>king Arms by the Kings Authority, againſt any Commiſſionated
+<pb facs="tcp:57978:2"/> by him, which muſt be Sworn to, as <hi>Abhor</hi> and <hi>Trayterous.</hi> There is a Caſe, that hath been always in the Mouths of the Underſtanding, Refuſers of this Oath and Subſcription. Sup<g ref="char:EOLhyphen"/>poſe ſome <hi>Writ</hi> Sued out, and comes to the <hi>Sheriffs</hi> Hands, and ſuppoſe perſons come to oppoſe the Execution, by the Kings perſonal Command or Commiſſion, and he thereupon raiſes the <hi>Poſse Comitatus</hi> upon them; I will ask here, Whether the Sheriff act not herein by the King's Authority? I think it cannot be denyed. By the Kings Authority is all one, as by the <hi>Laws;</hi> and if he can Act ſo Juſtificially againſt any, for all their Commiſſion, and the <hi>Law</hi> will bear him out; How is this Poſition in this Caſe <hi>Traiterous,</hi> and to be <hi>Abhorred?</hi> It were hardly now to be imagined, that it could be the intent of any <hi>Parliament</hi> in <hi>England,</hi> to advance the <hi>Perſonal Will,</hi> or <hi>Commiſſion</hi> of the <hi>King</hi> above <hi>Law,</hi> which is to make his power <hi>Deſpotical,</hi> and not <hi>Royal, Non eſt Rex</hi> (ſays <hi>Bracton) ubi Domi<g ref="char:EOLhyphen"/>natur voluntas non Lex:</hi> He is no King, that Governs by his Will, and not by <hi>Law.</hi> And how it ſhould come to paſs therefore, that he ſhould enjoin this Po<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ition indefinitely (without ex<g ref="char:EOLhyphen"/>ception of this Caſe at leaſt) to be Sworn to, as altogether Traiterous, I can never methinks wonder enough.</p>
+               <p>What if any Souldiers ſhould come with a Commiſſion un<g ref="char:EOLhyphen"/>der the Seal, to raiſe Money without an Act of Parliament; and by vertue of ſuch Commiſſions, Seize our Goods, Rifle our Houſes, and Raviſh our Wives? May not the People, or our inferior Magiſtrates, or the <hi>Sheriff</hi> for the County, withſtand ſuch Violence? May not the <hi>Conſtable</hi> alone, from the <hi>Juſtice</hi> to keep the Peace, raiſe the Neigbourhood, and do it? If he may, or the Sheriff may, it muſt be in the Name of the <hi>King,</hi> or by Authority of the <hi>Law,</hi> and then there is ſome Caſe or Caſes, where Arms or Force may be raiſed by the Authority of the King, againſt ſuch as are <hi>Comſſionated</hi> by him, though not againſt his <hi>Sacred Perſon.</hi> Nay, what if a Prince ſhould go to raviſh a Virgin, and ſhe catches up the next Weapon, or Inſtrument that is at hand, to defend her Chaſtity; would ſuch a <hi>Sacredneſs</hi> as that, make this Act of hers to be ſinful, that is ſo Vertuous in it ſelf? Suppoſe again, that Papiſts or Fanaticks ſhould either by <hi>Power</hi> or <hi>Sur<g ref="char:EOLhyphen"/>prize</hi> at any time; get, a <hi>King</hi> in their Hand (as the Duke of <hi>Guiſe</hi> once dealt with the <hi>French</hi> King) and prevail with him, for fear of his Life to grant Commiſſions under his Hand and Seal, deſtructive to the Church and State; muſt the Nation be Remedileſs in this Caſe, and the King and Kingdom ruin'd by theſe Commiſſions? Nay, What ſecurity hath the Nation, that a Lord Keeper may not prove Traitor to his King and Country, and under the Broad-Seal grant Commiſſions to Diſ<g ref="char:EOLhyphen"/>band his Majeſties Life-Guard, deliver up the Navy, or Sea-Port Towns, ſeize on the Tower, and all places of Strength? In what a Condition were the King and Kingdom brought, if the Subjects Hands be bound up by an Oath not to reſiſt, or take Arms againſt the Executiers of ſuch Commiſſions, ſup<g ref="char:EOLhyphen"/>poſe but ſo long as till they underſtand his deſign, ſeeing by that time the Nation be paſt recovery? And who is there now, that will not be offended at the Senſe, and turn'd at the Hor<g ref="char:EOLhyphen"/>ror of theſe ſad Conſequences, into which ſuch Teſts and Injunctions (if not now ſeaſonably Retrench'd) may lead our Poſterity?</p>
+               <p>As for the <hi>Form</hi> thereof, the Words, <hi>I abhor this Traiterous Poſition,</hi> they are Harſh. The word <hi>Abhor</hi> eſpecially was a Word of intereſt and paſſion, a cooler word as I <hi>diſown,</hi> or <hi>diſallow,</hi> might have ſerved. Some of the moſt Gravell of the Nonconformiſts were much ſcandaized at that Word. A Man may ſay a thing is unlawful in his Conſcience, when he cannot ſay, according to Truth, <hi>I abhor it.</hi> Well Sirs! When theſe words, <hi>Abhor</hi> and <hi>Traiterous,</hi> are ſo harſh in the <hi>Compoſure,</hi> and when ſuch Caſes as above-mentioned, and others may be put as to the Poſition in the <hi>Matter</hi> of it: I offer it in the next place, to Conſideration, whether the <hi>Middle part</hi> of the Oath be according to <hi>Truth?</hi>
+               </p>
+               <p>For the <hi>Firſt Part,</hi> we have a large Aſſertion roundly Sworn. The Oath runs not only, that it is not lawful to take Arms a<g ref="char:EOLhyphen"/>gainſt the King, and that it is not lawful on any pretence, but <hi>on any Pretence</hi> (or Cauſe) <hi>whatſoever.</hi> The Grammatical literal Conſtruction of that Word ſeems to inſinuate no leſs, than that this Propoſition muſt be held without Reſtraint or Limitation. Among the moſt eminent Authors, which have wrote of the Power of Princes, and Eſtabliſh'd it againſt Reſiſtance in their Writings on this Subject: I ſuppoſe they are few or none to be leveled above theſe Three, <hi>Barclay, Grotius, Arni<g ref="char:EOLhyphen"/>ſaeus;</hi> and we ſhall find, that they have all their reſtrictions or Caſes of Exception, in the maintenance of this Tenet. And how could any learned Juſtice formerly be very earneſt in pu<g ref="char:EOLhyphen"/>niſhing a Refuſor, when if the matter was but ſcann'd, th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſon why he refuſed, would be found only, becauſe he ha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Read more than ſome others that yielded their Submiſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on. <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> begin with <hi>Barclay,</hi> that is, <hi>William Barclay,</hi> a Scot and Coun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elolr to the <hi>French</hi> King: who writes againſt <hi>Buehanan, Boucher</hi> and other <hi>Monarchomachiſts,</hi> as he calls them. This learne<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Man endeavours to make his Prince to be above the who<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> People; that conſequently no Arms can be taken againſt him: Nevertheleſs, when he comes to put ſome preſſing Caſes, he thus limits him. <hi>Quid ergo nulline caſus inſidere poſſunt, quibus populo in Regem arma capere jure ſuo liceat? Nulli certe quam diu Rex manet. What then? Can there no Caſes happen wherein<g ref="char:punc">▪</g> It is lawful for the People to take Arms against the King by right? None certainly, ſo long as he remains a King.</hi> There are Caſes indeed he accounts, in which a King doth, <hi>exuere perſonum Regis,</hi> or <hi>Dominatu ſe exuere, put off the Perſon of a King;</hi> and particular<g ref="char:EOLhyphen"/>ly (<hi>l.</hi> 3. <hi>ch.</hi> 16.) he mentions two: <hi>Si regnum alienet: ſi Rem-pub<g ref="char:EOLhyphen"/>licam evertere conetur. If he go to Alienate his Kingdom: If he go to overthrow the Common-Wealth.</hi> Let us come to a <hi>Grotius,</hi> and firſt quote him in his Judgment of <hi>Barclay,</hi> leſt you may think elſe I miſtake him. <hi>Barclaius</hi> (ſaies he) <hi>Regis imperii licet Aſſertor fortiſſimus huc tamen deſcendit, ut populo, &amp; inſigni ejus parti jus concedit ſe tuendi adverſus immanem ſevitiam.</hi> Bar<g ref="char:EOLhyphen"/>clay, <hi>though the moſt ſtrong Aſſertor of Kingly Government, does come to this, that he Grants a right to the People, or an Eminent part of, them of defending themfelves againſt intolerable Oppreſſion.</hi> For himſelf therefore, after he hath aſſerted this Tenet, <hi>Summum imperium tenentibus jure reſiſti non poſſe,</hi> That the Higher Powers may not lawfully be reſiſted from Scripture, Antiquity, Authority, and Example, to as much purpoſe perhaps as any, he deſcends to put <hi>Seven</hi> Caſes; wherein he does, <hi>Leorem mo<g ref="char:EOLhyphen"/>nere,</hi> warn his Reader, <hi>Ne punet in hanc legem delinquere eos qui reverà non delinquunt,</hi> Leſt he miſtake ſome for Delinquents in this matter, that are none. It will be too long, and needleſs to mention, thoſe Caſes. For <hi>Arniſaeus,</hi> he hath wrote three Learned Books of Politicks; <hi>De jure Majeſtatus. De Doctrina Politica. De Authoritate Principum in Populum ſemper inviolabili, ſeu, Quod nulla ex cauſa ſubditis fas ſit contra legitimum Principem arma ſumere.</hi> That the Authority of Princes over the People ought to be inviolable; or, That it is lawful for no cauſe to take up Arms againſt our lawful Prince. Here then we have our Tenet; but as to the ſtating it, he is forc'd to diſtinguiſh. There is <hi>Rex,</hi> and there is <hi>Tyrannus;</hi> a King, and a Tyrant: And there is <hi>Tyrannus in Titulo,</hi> and <hi>Tyrannus in Exerictio;</hi> A Tyrant in <hi>Title,</hi> and a Tyrant in <hi>Practice:</hi> And this he comes to in the iſſue, that <hi>Tyraunus in Exercitio,</hi> as Tyrant in Practice does, <hi>Exeidere de jure, &amp; ſi Hereditario,</hi> fall from his Right, though Heredita<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y. <hi>Truditur Reſublica Principi in cum finem</hi> (ſaies he) <hi>ut illi profit in ſalutem omnium, a quo ſi prorſes diſcive<g ref="char:EOLhyphen"/>rit, etiam de poteſtate cadit, quam non alio ſine ſibi commiſſam ha<g ref="char:EOLhyphen"/>bebat.</hi> The Common-wealth is delivered to the Prince, that he ſhould rule over it for the common Safety; from which if he depart altogether, he falls even from the Power it ſelf, which was committed to him only for this <hi>End.</hi> By ſuch Teſtimonies as theſe, I would convince the Compilers of ſuch Declarations, if they be alive, and any others that are yet of the ſame Spi<g ref="char:EOLhyphen"/>rit, with ſome Reſentment and Shame, that when a tempe<g ref="char:EOLhyphen"/>rare Senſe and Meaning of them is ſuch, as ſome good men have not ſtuck at; yet are they ſo Compoſed <hi>in termiis,</hi> as ren<g ref="char:EOLhyphen"/>ders them not to be endured.</p>
+               <p>For the <hi>Form</hi> then yet of the <hi>Words. I</hi> A. B. <hi>do Swear, That it is not lawful,</hi> &amp;c. Here is an Oath to the Matter of a Pro<g ref="char:EOLhyphen"/>poſition queſtioned, to the Determination of a point of Con<g ref="char:EOLhyphen"/>ſcience, and that diverſly decided. An Oath ſhould he to a <hi>Matter of Fact,</hi> and cannot be taken but to that whereof we are <hi>certain.</hi> To require of Men therefore to Swear to the <hi>Ve<g ref="char:EOLhyphen"/>rity</hi> of a <hi>Doctrine,</hi> is not according to <hi>Judgment,</hi> being a thing im<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſſible, becauſe no man is <hi>infallible.</hi> Now then, Sirs! When here is ſuch an <hi>Erratum</hi> in the <hi>Compoſure,</hi> as the want of the Words, <hi>I believe,</hi> or the like, <hi>I Swear that I hold, or believe that it is not lawful,</hi> &amp;c. and ſo material an Exception, as the Judg<g ref="char:EOLhyphen"/>ment of the moſt Learned comes to, againſt the <hi>Subſtance</hi> in <hi>Ter<g ref="char:EOLhyphen"/>minis,</hi> of the firſt part of the Oath, which yet hath gone down ordinarily, without Chewing; I humbly offer it, in the third place, to be conſidered, how this Oath can be taken in Truth o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in Judgment.</p>
+               <p>An <hi>Oath</hi> muſt be taken in <hi>Judgment, Truth, and in Righte<g ref="char:EOLhyphen"/>ouſneſs.</hi> The <hi>Firſt part</hi> is not according to <hi>Judgment;</hi> The <hi>Se<g ref="char:EOLhyphen"/>cond</hi> not according to <hi>Truth;</hi> The <hi>Third</hi> not according to <hi>Righteouſneſs.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London: <hi>Printed for</hi> R. Hayhurſt <hi>in</hi> Little-Britain, <hi>1689.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
